@@ -1,0 +1,5 @@
+com\storeops\alerts\AlertControllerTest.class
+com\storeops\staff\StaffControllerTest.class
+com\storeops\reports\ReportControllerTest.class
+com\storeops\programmes\ProgrammeControllerTest.class
+com\storeops\activities\ActivityControllerTest.class

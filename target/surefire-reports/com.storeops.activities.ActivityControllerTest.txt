@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.storeops.activities.ActivityControllerTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.737 s -- in com.storeops.activities.ActivityControllerTest
