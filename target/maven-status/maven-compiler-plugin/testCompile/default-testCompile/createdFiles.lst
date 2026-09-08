@@ -1,5 +1,7 @@
+com\storeops\activities\ActivityServiceTest.class
 com\storeops\alerts\AlertControllerTest.class
-com\storeops\staff\StaffControllerTest.class
 com\storeops\reports\ReportControllerTest.class
 com\storeops\programmes\ProgrammeControllerTest.class
+com\storeops\alerts\ShiftHandoverEventListenerTest.class
+com\storeops\staff\StaffControllerTest.class
 com\storeops\activities\ActivityControllerTest.class

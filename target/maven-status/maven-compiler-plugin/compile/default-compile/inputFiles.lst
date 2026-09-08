@@ -2,12 +2,17 @@ C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\acti
 C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\activities\ActivityController.java
 C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\activities\ActivityRepository.java
 C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\activities\ActivityService.java
+C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\activities\BulkFailureItem.java
+C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\activities\BulkStatusUpdateRequest.java
+C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\activities\BulkStatusUpdateResponse.java
 C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\alerts\ActivityCreatedListener.java
 C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\alerts\Alert.java
 C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\alerts\AlertController.java
 C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\alerts\AlertRepository.java
 C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\alerts\AlertService.java
+C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\alerts\ShiftHandoverEventListener.java
 C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\common\events\ActivityCreatedEvent.java
+C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\common\events\ShiftHandoverEvent.java
 C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\common\exception\AppException.java
 C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\common\exception\GlobalExceptionHandler.java
 C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\common\exception\ResourceNotFoundException.java

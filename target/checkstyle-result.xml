@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="10.17.0">
-<file name="C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\activities\ActivityController.java">
-</file>
-<file name="C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\activities\ActivityService.java">
-</file>
-<file name="C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\programmes\ProgrammeController.java">
-</file>
-<file name="C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\programmes\ProgrammeService.java">
-</file>
-<file name="C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\staff\StaffController.java">
+<file name="C:\Users\savenka\Downloads\storeops-harness-java\src\main\java\com\storeops\alerts\ShiftHandoverEventListener.java">
 </file>
 </checkstyle>
